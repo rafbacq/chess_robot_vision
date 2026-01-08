@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+python-chess
+numpy
+matplotlib
+stable-baselines3
+gymnasium
