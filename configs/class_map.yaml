@@ -1,0 +1,15 @@
+# Map your YOLO class names to FEN letters.
+# Uppercase = White, lowercase = Black
+w_pawn: P
+w_knight: N
+w_bishop: B
+w_rook: R
+w_queen: Q
+w_king: K
+
+b_pawn: p
+b_knight: n
+b_bishop: b
+b_rook: r
+b_queen: q
+b_king: k

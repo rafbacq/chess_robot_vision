@@ -5,3 +5,4 @@ numpy
 matplotlib
 stable-baselines3
 gymnasium
+chess

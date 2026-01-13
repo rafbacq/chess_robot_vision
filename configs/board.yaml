@@ -1,0 +1,10 @@
+board:
+  warp_size_px: 800
+  orientation: white_bottom
+  stable_frames_required: 4
+  min_confidence: 0.35
+aruco:
+  enabled: true
+  dictionary: DICT_4X4_50
+  corner_ids: [0, 1, 2, 3]   # TL, TR, BR, BL
+  calibration_file: configs/board_calibration.json
