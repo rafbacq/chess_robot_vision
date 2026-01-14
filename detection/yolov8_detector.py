@@ -7,8 +7,7 @@ from typing import List, Optional, Sequence
 
 import numpy as np
 from ultralytics import YOLO
-import 
-from IPython.display import display, Image #remember to add this to requirements
+#from IPython.display import display, Image #remember to add this to requirements
 
 
 from roboflow import Roboflow
